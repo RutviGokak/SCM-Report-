@@ -8,7 +8,7 @@ The report explains how Software Configuration Management (SCM) practices improv
 
 ---
 
-### 📖 Contents of the Report  
+### 📖 Contents of the Report   
 - Introduction to Software Configuration Management (SCM)  
 - Case Description  
 - SCM Handling Before and After Implementation  
